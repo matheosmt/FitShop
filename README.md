@@ -1,5 +1,3 @@
-# FitShop
-
 # FitShop - E-commerce Web Application
 
 ![FitShop Logo](path_to_logo_or_screenshot.png)
