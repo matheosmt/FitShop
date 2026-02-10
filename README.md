@@ -1,6 +1,6 @@
 # FitShop - E-commerce Web Application
 
-![FitShop Logo](path_to_logo_or_screenshot.png)
+[![FitShop Logo](path_to_logo_or_screenshot.png)](https://matheosmt.github.io/FitShop/index.php)
 
 ## Project Overview
 FitShop is a modern e-commerce web application for selling sports equipment, supplements, and accessories. This project was developed as part of the **BTS SIO** curriculum to demonstrate practical web development skills.
@@ -32,8 +32,3 @@ This project was built using **PHP, HTML, CSS, and JavaScript**.
 - **Data Storage:** Currently using PHP arrays (can be extended to MySQL)  
 
 ---
-
-## Installation
-1. Clone this repository:  
-```bash
-git clone https://github.com/yourusername/fitshop.git
