@@ -59,7 +59,7 @@ session_start();
 
         <!-- PRODUIT 1 -->
         <div class="product-card">
-            <img src="https://via.placeholder.com/250" alt="Haltère 20kg">
+            <img src="assets/img/img-accueil.jpg" alt="Haltère 20kg">
             <h3>Haltère 20kg</h3>
             <p>49,99 €</p>
 
