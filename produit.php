@@ -1,7 +1,6 @@
 <?php
 session_start();
 
-// Tableau de produits
 $produits = [
     ["id"=>1, "nom"=>"Haltères", "prix"=>49.99, "img"=>"assets/img/haltères.jpg"],
     ["id"=>12, "nom"=>"Barres de musculation", "prix"=>49.99, "img"=>"assets/img/barre.jpg"],

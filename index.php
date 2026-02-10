@@ -57,7 +57,6 @@ session_start();
 
     <div class="product-grid">
 
-        <!-- PRODUIT 1 -->
         <div class="product-card">
             <img src="assets/img/haltères.jpg" alt="Haltères">
             <h3>Haltères</h3>
@@ -71,7 +70,6 @@ session_start();
             </form>
         </div>
 
-        <!-- PRODUIT 2 -->
         <div class="product-card">
             <img src="assets/img/whey.jpg" alt="Whey Protéine">
             <h3>Whey Protéine</h3>
@@ -85,7 +83,6 @@ session_start();
             </form>
         </div>
 
-        <!-- PRODUIT 3 -->
         <div class="product-card">
             <img src="assets/img/barre.jpg" alt="Barre de musculation">
             <h3>Barre de musculation</h3>

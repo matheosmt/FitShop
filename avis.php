@@ -1,7 +1,6 @@
 <?php
 session_start();
 
-// Exemple d'avis clients
 $avisClients = [
     ["nom"=>"Alice", "note"=>5, "message"=>"Super boutique ! Produits de qualité et livraison rapide."],
     ["nom"=>"Bob", "note"=>4, "message"=>"Très satisfait, je recommande surtout les haltères."],
@@ -54,7 +53,6 @@ $avisClients = [
         <button id="toggleForm" class="btn btn-primary">Laisser un avis</button>
     </div>
 
-    <!-- FORMULAIRE CACHÉ -->
     <div id="reviewForm" class="review-form hidden">
         <h3>Votre avis</h3>
         <form method="post" action="submit_avis.php">
