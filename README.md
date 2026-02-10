@@ -32,8 +32,3 @@ This project was built using **PHP, HTML, CSS, and JavaScript**.
 - **Data Storage:** Currently using PHP arrays (can be extended to MySQL)  
 
 ---
-
-## Installation
-1. Clone this repository:  
-```bash
-git clone https://github.com/yourusername/fitshop.git
